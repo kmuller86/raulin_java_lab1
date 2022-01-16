@@ -15,6 +15,8 @@ public class Main {
         tabela[2] = 8.7;
         tabela[3] = 16.3;
         tabela[4] = 32.1;
+        
+        // Czy jest pan pewien że zostanie wyświetlona zawartość tabeli ?
         System.out.println("Zawartośc tablicy: "+ tabela);
         }
     }
